@@ -1,0 +1,261 @@
+id,name,description,unit_price,stock,sku,is_available,created_at,updated_at,category
+46cea07b-b408-47e4-a6d1-1a4d951cc78d,iPhone 14 Pro (128GB),"Latest Apple smartphone with A16, 6.1' display",7499.0,150,EL-10001,True,2024-01-05 10:15:22,2024-01-05 10:15:22,electronics
+97159163-5850-461a-8681-a173d42b878f,Samsung Galaxy S23 Ultra,Premium Android smartphone with S Pen,8299.0,125,EL-10002,True,2024-01-05 11:30:45,2024-01-05 11:30:45,electronics
+aa238279-ad9e-42c1-b309-91b4b2666d37,iPad Air (2022),10.9-inch Liquid Retina display with M1 chip,4599.0,100,EL-10003,True,2024-01-06 09:15:22,2024-01-06 09:15:22,electronics
+3c7d2216-35b1-435c-a74e-5465b42cab06,Nintendo Switch OLED,Portable gaming console with enhanced display,2399.0,75,EL-10004,False,2024-01-06 14:22:30,2024-01-06 14:22:30,electronics
+08267bf1-4a73-4507-800e-c1cc41e084fa,Sony WH-1000XM5,Premium noise cancelling headphones,2788.0,85,EL-10005,True,2024-01-07 10:30:00,2024-01-07 10:30:00,electronics
+d06a3262-9866-4500-b949-8b0bddab648f,Xiaomi Robot Vacuum Cleaner,Smart home vacuum with mapping function,2499.0,60,EL-10006,True,2024-01-07 13:45:22,2024-01-07 13:45:22,electronics
+647c9d87-0696-44c5-b896-ecd25b1773cf,Fortress Power Strip,6-outlet power strip with USB ports,159.0,200,EL-10007,True,2024-01-08 09:20:15,2024-01-08 09:20:15,electronics
+07de6843-e977-4300-8ceb-d459fe2e7bee,Philips Air Fryer,Healthy cooking with 80% less fat,899.0,70,EL-10008,True,2024-01-08 11:15:30,2024-01-08 11:15:30,electronics
+a5e0d12c-273c-49db-abda-35c5f43f3310,Canon EOS R6,Full-frame mirrorless camera with 20MP sensor,16999.0,30,EL-10009,True,2024-01-09 14:20:00,2024-01-09 14:20:00,electronics
+16ade33b-103f-4265-976f-20306e400917,DJI Mavic Air 2,Foldable drone with 4K camera,7299.0,40,EL-10010,True,2024-01-09 16:10:25,2024-01-09 16:10:25,electronics
+477ed64d-9204-45a7-a542-22ccff0c97a8,Dyson V12 Detect Slim,Cordless vacuum with laser dust detection,4980.0,55,EL-10011,False,2024-01-10 10:30:15,2024-01-10 10:30:15,electronics
+8b351327-6235-4df7-8ba6-5168350148c8,Apple Watch Series 8,Health monitoring smartwatch with ECG,3199.0,90,EL-10012,True,2024-01-10 13:25:40,2024-01-10 13:25:40,electronics
+59b6760d-14ef-422d-8df9-7ce3f2e2650b,Google Pixel 7 Pro,Android smartphone with superior camera,6499.0,65,EL-10013,True,2024-01-11 09:45:10,2024-01-11 09:45:10,electronics
+49f98e84-a082-41ed-a443-445ad6a53948,Sony PlayStation 5,Next-gen gaming console,3980.0,45,EL-10014,True,2024-01-11 11:20:30,2024-01-11 11:20:30,electronics
+6f76c1dd-7b63-4723-8edd-618c23c3d446,Bose QuietComfort Earbuds,Wireless noise cancelling earbuds,2099.0,80,EL-10015,True,2024-01-12 15:10:20,2024-01-12 15:10:20,electronics
+3e0beb23-1fdc-471f-bae4-34d598bcfc97,"LG OLED C2 55"" TV",4K smart TV with perfect black levels,11999.0,25,EL-10016,False,2024-01-12 16:40:15,2024-01-12 16:40:15,electronics
+c64ba5a4-0f00-4b17-9290-b98f5d21dcb1,Dell XPS 15 Laptop,Premium Windows laptop with 12th gen Intel,15899.0,35,EL-10017,True,2024-01-13 10:25:30,2024-01-13 10:25:30,electronics
+ae44b291-500a-4d1d-b018-5448158c1bff,Lenovo ThinkPad X1 Carbon,Business laptop with excellent keyboard,13999.0,40,EL-10018,True,2024-01-13 13:15:45,2024-01-13 13:15:45,electronics
+46efb190-81f6-4275-82d2-678255ad3c65,Fitbit Charge 5,Advanced fitness tracker with ECG,1499.0,95,EL-10019,True,2024-01-14 09:30:20,2024-01-14 09:30:20,electronics
+3e934ced-58ff-457b-886a-4428fd201f79,Logitech MX Master 3,Advanced wireless mouse for productivity,749.0,110,EL-10020,True,2024-01-14 11:45:35,2024-01-14 11:45:35,electronics
+7b5d412c-31ee-4a6c-8e33-67128752029d,Nikon Z6 II,Full-frame mirrorless camera with 24MP,15999.0,20,EL-10021,True,2024-01-15 14:20:10,2024-01-15 14:20:10,electronics
+3a147522-9118-4654-bcac-afc6f9044246,GoPro HERO11 Black,Action camera with 5.3K video,3699.0,60,EL-10022,True,2024-01-15 16:35:25,2024-01-15 16:35:25,electronics
+11fc8a26-37d2-4337-ade5-fd7e7fbdf7a8,Microsoft Surface Pro 9,2-in-1 tablet PC with Windows 11,8999.0,50,EL-10023,True,2024-01-16 10:15:40,2024-01-16 10:15:40,electronics
+0a9e996f-7ba8-43e7-bbf8-ff783b1cb265,Sonos Beam (Gen 2),Smart soundbar with Dolby Atmos,3699.0,45,EL-10024,True,2024-01-16 13:30:55,2024-01-16 13:30:55,electronics
+6eeee948-7a29-4b67-8af0-5c8d8a65ccf9,Jabra Elite 7 Pro,True wireless earbuds with noise cancellation,1599.0,85,EL-10025,True,2024-01-17 09:40:15,2024-01-17 09:40:15,electronics
+41cb9eae-267e-4345-925c-c1607c0faed4,ASUS ROG Gaming Monitor,"27"" 165Hz gaming monitor with 1ms response",2999.0,30,EL-10026,True,2024-01-17 11:25:30,2024-01-17 11:25:30,electronics
+7597e7f1-d238-4933-81bd-4b87f54db671,Garmin Fenix 7,Premium multisport GPS watch,5999.0,40,EL-10027,True,2024-01-18 15:10:45,2024-01-18 15:10:45,electronics
+188b0680-fcc7-4634-892e-3eb2d9aceaeb,Tefal OptiGrill+,Smart electric grill with automatic sensors,1899.0,55,EL-10028,True,2024-01-18 17:30:00,2024-01-18 17:30:00,electronics
+b02a09c7-a431-4264-8911-f772e9576505,Anker PowerCore 26800,High-capacity power bank with 3 USB ports,399.0,120,EL-10029,True,2024-01-19 10:15:25,2024-01-19 10:15:25,electronics
+c29e00ed-d724-4265-b768-721ae0550478,Razer BlackWidow V3,Mechanical gaming keyboard with RGB,1099.0,70,EL-10030,True,2024-01-19 13:45:40,2024-01-19 13:45:40,electronics
+c0931b37-a629-40ff-82df-a7d3a86c6d28,OnePlus 10 Pro,Flagship smartphone with Hasselblad camera,5999.0,55,EL-10031,True,2024-01-20 09:30:55,2024-01-20 09:30:55,electronics
+69abb9fc-ea93-4a59-b6a6-451120e73dd7,"TCL 65"" 4K QLED TV",Quantum dot display with Android TV,6299.0,35,EL-10032,True,2024-01-20 11:15:10,2024-01-20 11:15:10,electronics
+6066611f-35b9-4b2c-9375-f6360da23385,SteelSeries Arctis Nova Pro,Premium wireless gaming headset,2299.0,45,EL-10033,True,2024-01-21 14:25:25,2024-01-21 14:25:25,electronics
+abf1b469-ef4e-41b6-a419-5f6a87bdd5da,Linksys Mesh WiFi System,Whole home WiFi coverage,1899.0,60,EL-10034,True,2024-01-21 16:40:40,2024-01-21 16:40:40,electronics
+90890bd7-30be-4bf2-aaab-33f10476d929,Braun Series 9 Pro,Premium electric shaver with ProLift trimmer,2999.0,50,EL-10035,True,2024-01-22 10:20:55,2024-01-22 10:20:55,electronics
+bd7d280f-42dc-4341-9aba-66f8f33d7534,Fujifilm X-T4,Mirrorless camera with IBIS and 26MP sensor,13999.0,25,EL-10036,True,2024-01-22 13:15:10,2024-01-22 13:15:10,electronics
+912e4302-6fb0-442f-ad7f-8c988da50f16,WD My Passport 4TB,Portable external hard drive,899.0,80,EL-10037,True,2024-01-23 09:35:25,2024-01-23 09:35:25,electronics
+5381d64f-e205-4558-996f-dbd8facbc000,Keychron K2 Keyboard,Wireless mechanical keyboard with Mac/Win compatibility,799.0,75,EL-10038,False,2024-01-23 11:50:40,2024-01-23 11:50:40,electronics
+bb7e5448-2602-43f1-a045-625b9e8c9c11,Oppo Find X5 Pro,Premium smartphone with Hasselblad tuning,6999.0,40,EL-10039,True,2024-01-24 14:30:55,2024-01-24 14:30:55,electronics
+b2d469c3-a7a7-44b4-994d-e4c8d65c839f,Edifier TWS1 Pro,true wireless earbuds with aptX,599.0,95,EL-10040,True,2024-01-24 16:15:10,2024-01-24 16:15:10,electronics
+b8363bdc-3b59-4e87-9f82-ab7b419ee3af,Midea Rice Cooker,Smart rice cooker with multiple functions,699.0,65,EL-10041,True,2024-01-25 10:25:25,2024-01-25 10:25:25,electronics
+e02ee84f-4331-41fa-9634-9901a4a09755,Samsung T7 SSD 1TB,Portable SSD with USB-C,1099.0,70,EL-10042,True,2024-01-25 13:40:40,2024-01-25 13:40:40,electronics
+3a3d9e49-7e74-4f48-abfb-83941e208de9,Huawei MateBook X Pro,Ultrathin laptop with 3K touchscreen,9999.0,30,EL-10043,True,2024-01-26 09:20:55,2024-01-26 09:20:55,electronics
+c11c97df-84c4-4d6e-8aa7-9dc22dd49c5b,Kindle Paperwhite,E-reader with adjustable warm light,1099.0,85,EL-10044,True,2024-01-26 11:35:10,2024-01-26 11:35:10,electronics
+226bf8ec-11e0-4544-9322-3a0b6a999353,HKBN WiFi 6 Router,High-speed router for home use,699.0,90,EL-10045,True,2024-01-27 14:45:25,2024-01-27 14:45:25,electronics
+ff2e2df6-b947-420c-b884-1f338800c048,Miele Triflex HX1 Pro,Premium cordless vacuum cleaner,4999.0,25,EL-10046,True,2024-01-27 16:30:40,2024-01-27 16:30:40,electronics
+5ff00d7b-365d-433d-becd-040b880ec45d,Plantronics BackBeat Pro 2,Wireless noise cancelling headphones,1499.0,60,EL-10047,True,2024-01-28 10:15:55,2024-01-28 10:15:55,electronics
+8a849ce7-5c55-4cfd-ae20-205721c92925,Harman Kardon Citation One,Smart speaker with Google Assistant,1699.0,50,EL-10048,True,2024-01-28 13:25:10,2024-01-28 13:25:10,electronics
+f12407ce-9dfe-4767-bd93-05f91915467d,LG Gram 16,Ultra-lightweight laptop with long battery life,12999.0,35,EL-10049,False,2024-01-29 09:40:25,2024-01-29 09:40:25,electronics
+fe1b855a-aa66-4b87-a6ce-486e5d02721e,Acer Predator Gaming PC,High-performance gaming desktop,17999.0,20,EL-10050,True,2024-01-29 11:55:40,2024-01-29 11:55:40,electronics
+a1eab65c-464e-44a6-86a3-4c96c4614e60,Uniqlo AIRism T-shirt,Breathable lightweight t-shirt for summer,99.0,300,CL-20001,True,2024-01-05 10:20:15,2024-01-05 10:20:15,clothing
+a86b563c-abbf-459d-b1a1-b1e8cda75b28,G2000 Men's Dress Shirt,Business formal shirt with wrinkle-free technology,399.0,150,CL-20002,True,2024-01-05 13:35:30,2024-01-05 13:35:30,clothing
+78a2f84a-f31b-48be-9863-4abefcf9afe0,Giordano Polo Shirt,Classic polo shirt with cotton blend,159.0,250,CL-20003,True,2024-01-06 09:25:45,2024-01-06 09:25:45,clothing
+0b8b9bb1-1713-4f64-b34c-b8e757acab9e,Baleno Slim Fit Jeans,Comfortable everyday jeans,239.0,200,CL-20004,True,2024-01-06 11:40:00,2024-01-06 11:40:00,clothing
+5285afd8-8212-4106-a7d9-973a0929c854,Bossini Hooded Jacket,Lightweight casual jacket,299.0,180,CL-20005,True,2024-01-07 14:15:15,2024-01-07 14:15:15,clothing
+808389d1-7ca2-4f06-a7df-b92e89535233,Esprit Summer Dress,Floral pattern dress for warm weather,349.0,120,CL-20006,True,2024-01-07 16:30:30,2024-01-07 16:30:30,clothing
+8a6aca9b-54ad-4ae2-8141-606596fb4cbe,H&M Basic Tee,Essential crew neck t-shirt,79.0,400,CL-20007,True,2024-01-08 09:45:45,2024-01-08 09:45:45,clothing
+04852dd0-4b5b-4f0f-8b5f-cec53c8f5f81,FILA Sports Leggings,High-waisted workout leggings,259.0,150,CL-20008,True,2024-01-08 11:55:00,2024-01-08 11:55:00,clothing
+1b526da9-79fc-4b89-a9a0-54d9cb339d66,Nike Dri-FIT Running Shorts,Moisture-wicking athletic shorts,299.0,180,CL-20009,True,2024-01-09 14:10:15,2024-01-09 14:10:15,clothing
+173e39de-07e5-41e0-8630-de71af211078,Adidas Ultraboost Shoes,Premium running shoes with Boost technology,1399.0,100,CL-20010,True,2024-01-09 16:25:30,2024-01-09 16:25:30,clothing
+538a9027-06d8-4146-836e-8237dd104347,Under Armour Compression Shirt,Base layer for athletic performance,299.0,120,CL-20011,True,2024-01-10 09:40:45,2024-01-10 09:40:45,clothing
+7666e63d-afab-4dd4-85be-d05f545f5550,Padini Office Skirt,Professional A-line skirt,219.0,150,CL-20012,True,2024-01-10 11:55:00,2024-01-10 11:55:00,clothing
+6b804f2c-4b36-4780-b4e0-f703e132fbef,Zara Blazer,Modern fitted blazer for work,599.0,90,CL-20013,False,2024-01-11 14:10:15,2024-01-11 14:10:15,clothing
+d15771e9-4de5-4847-8605-11a3dc0720de,Cotton On Pajama Set,Comfortable sleepwear set,199.0,130,CL-20014,True,2024-01-11 16:25:30,2024-01-11 16:25:30,clothing
+506ecb09-8f5c-40ff-8af9-1c21e79f1cf7,Levi's 501 Jeans,Original fit denim jeans,599.0,120,CL-20015,True,2024-01-12 09:40:45,2024-01-12 09:40:45,clothing
+26c0a9c8-c815-4388-9fb3-82d2d9f13b58,Marks & Spencer Wool Coat,Classic winter coat,1299.0,80,CL-20016,True,2024-01-12 11:55:00,2024-01-12 11:55:00,clothing
+fa1c7c40-7cdb-4cc1-8790-e3d694725fe7,The North Face Raincoat,Waterproof outdoor jacket,1099.0,70,CL-20017,True,2024-01-13 14:10:15,2024-01-13 14:10:15,clothing
+a43d9cba-273f-4b07-a7ce-2657570e0957,Triumph Underwear Set,Premium lingerie set,399.0,100,CL-20018,True,2024-01-13 16:25:30,2024-01-13 16:25:30,clothing
+5d6415e8-66b8-42cb-8f37-804c8c6d45f5,New Balance Sneakers,Casual everyday shoes,799.0,110,CL-20019,True,2024-01-14 09:40:45,2024-01-14 09:40:45,clothing
+2b7065f3-fce6-45ed-8f77-13533363c4e8,Timberland Waterproof Boots,Durable outdoor boots,1799.0,60,CL-20020,True,2024-01-14 11:55:00,2024-01-14 11:55:00,clothing
+79d1e3c6-c6f5-4824-a262-c8366ae9c717,Muji Linen Shirt,Breathable summer shirt,399.0,140,CL-20021,True,2024-01-15 14:10:15,2024-01-15 14:10:15,clothing
+cafe9d22-2754-4e55-9cf7-d81d6e5c05a3,Topshop Denim Skirt,Casual A-line skirt,299.0,130,CL-20022,True,2024-01-15 16:25:30,2024-01-15 16:25:30,clothing
+eb5c4c1b-2bbf-41ff-a338-e99fdcc1b3ab,Converse Chuck Taylor,Classic canvas sneakers,599.0,150,CL-20023,True,2024-01-16 09:40:45,2024-01-16 09:40:45,clothing
+d15e3f52-5b2b-4613-b111-04d182f85047,Puma Training Jacket,Lightweight sports jacket,499.0,120,CL-20024,True,2024-01-16 11:55:00,2024-01-16 11:55:00,clothing
+cd1a8e59-e86f-41d3-aeda-6c4b8c882578,Lacoste Polo Shirt,Classic crocodile logo polo,699.0,90,CL-20025,True,2024-01-17 14:10:15,2024-01-17 14:10:15,clothing
+d8129916-397a-4e79-95d8-a51e8ef77107,Calvin Klein Underwear,Cotton boxer briefs 3-pack,299.0,200,CL-20026,False,2024-01-17 16:25:30,2024-01-17 16:25:30,clothing
+ff5bc89f-a41c-4cd6-9aea-849b652317bb,ALDO Leather Shoes,Formal dress shoes,899.0,80,CL-20027,True,2024-01-18 09:40:45,2024-01-18 09:40:45,clothing
+4696351f-8ce3-473b-a813-d90ca0c75494,Columbia Hiking Pants,Convertible outdoor trousers,799.0,70,CL-20028,True,2024-01-18 11:55:00,2024-01-18 11:55:00,clothing
+5a56660a-ba80-4cb9-b128-6a5c24902fe8,Crocs Classic Clogs,Comfortable casual footwear,299.0,160,CL-20029,True,2024-01-19 14:10:15,2024-01-19 14:10:15,clothing
+24c8f211-003a-4832-9d2e-32804f500259,Tommy Hilfiger Dress Shirt,Premium cotton formal shirt,599.0,100,CL-20030,True,2024-01-19 16:25:30,2024-01-19 16:25:30,clothing
+3821b914-a984-4740-9758-a8db57547e3f,Givenchy T-shirt,Designer logo t-shirt,2999.0,40,CL-20031,True,2024-01-20 09:40:45,2024-01-20 09:40:45,clothing
+a5f7ea4a-871d-44ee-9448-c552cf35d76c,Vans Old Skool,Classic skate shoes,599.0,130,CL-20032,True,2024-01-20 11:55:00,2024-01-20 11:55:00,clothing
+6819f882-0082-4cd6-94e8-64cfabfa4bcd,Chow Tai Fook Jade Pendant,Traditional Hong Kong jewelry with 24K gold setting,5999.0,30,HM-30001,True,2024-01-05 10:25:15,2024-01-05 10:25:15,home
+f6e9ffa3-405a-4d35-90ce-111b839cbc4f,IKEA BILLY Bookcase,Versatile bookshelf for home storage,399.0,100,HM-30002,True,2024-01-05 13:40:30,2024-01-05 13:40:30,home
+3ffa8e6e-50fd-4c62-a4ca-b96a68b55ba4,Royal Doulton Tea Set,Fine bone china tea set,1299.0,50,HM-30003,True,2024-01-06 09:30:45,2024-01-06 09:30:45,home
+05f21dc3-4941-4001-8a5b-2ebe10b02f06,Japanese Cast Iron Teapot,Traditional tetsubin with enamel interior,599.0,60,HM-30004,True,2024-01-06 11:45:00,2024-01-06 11:45:00,home
+716a4cd7-b0fd-41a7-a344-c568f007c3b4,Hong Kong Skyline Wall Art,Canvas print of Victoria Harbour,499.0,80,HM-30005,True,2024-01-07 14:20:15,2024-01-07 14:20:15,home
+44e0f639-9734-40bf-b9b4-32aab4d296ed,Bamboo Steamer Set,Traditional dim sum steamer baskets,149.0,120,HM-30006,False,2024-01-07 16:35:30,2024-01-07 16:35:30,home
+901520aa-9a44-4fe3-9230-4ebe0f537a7c,Lock & Lock Food Container Set,Air-tight food storage set,199.0,150,HM-30007,True,2024-01-08 09:50:45,2024-01-08 09:50:45,home
+917f1aa9-2873-4229-9e18-74286bacc0c8,HK-style Milk Tea Glass Set,Classic local café style glasses,129.0,100,HM-30008,True,2024-01-08 12:05:00,2024-01-08 12:05:00,home
+4aed4713-3119-43b0-b0fe-04cf50c8ac60,Xiaomi Smart Light Bulb,Color-changing WiFi bulb,99.0,200,HM-30009,True,2024-01-09 14:15:15,2024-01-09 14:15:15,home
+9fbb808a-1ea7-467b-911f-1491331307dc,MUJI Aroma Diffuser,Minimalist essential oil diffuser,599.0,70,HM-30010,True,2024-01-09 16:30:30,2024-01-09 16:30:30,home
+9c8d61c3-7560-47eb-9dab-8a51eec62452,WMF Cookware Set,Premium stainless steel pots and pans,2999.0,30,HM-30011,True,2024-01-10 09:45:45,2024-01-10 09:45:45,home
+2a4a0d6b-4abc-43b8-8f0d-5ab68792d4ea,Tiger Rice Cooker,Made-in-Japan rice cooker,1499.0,60,HM-30012,True,2024-01-10 12:00:00,2024-01-10 12:00:00,home
+b0ec1bac-bb33-4a30-99e6-6b67629476ed,Chinese Calligraphy Set,Traditional brush writing set,299.0,50,HM-30013,True,2024-01-11 14:15:15,2024-01-11 14:15:15,home
+65044ed9-7065-4b04-a1b6-5f505a415ce3,JYSK Bedding Set,Cotton duvet cover with pillowcases,399.0,90,HM-30014,True,2024-01-11 16:30:30,2024-01-11 16:30:30,home
+e0b8ff40-a743-4b10-a761-2a37e8399b11,Zodiac Crystal Ornament,Chinese zodiac figurine in crystal,199.0,120,HM-30015,True,2024-01-12 09:45:45,2024-01-12 09:45:45,home
+db5f6e01-08b5-455d-8d64-9e138468ccad,Philips Air Purifier,HEPA filter air cleaner for small rooms,1299.0,40,HM-30016,True,2024-01-12 12:00:00,2024-01-12 12:00:00,home
+aae73fc0-8a5e-4f41-bed9-b0f81923793d,Fissler Pressure Cooker,German-engineered stainless steel cooker,1999.0,25,HM-30017,True,2024-01-13 14:15:15,2024-01-13 14:15:15,home
+7462efab-e126-4da1-a834-bb339fae4487,Microfiber Bath Towel Set,Quick-dry towel set of 4,259.0,100,HM-30018,True,2024-01-13 16:30:30,2024-01-13 16:30:30,home
+c46e57c6-a90b-4b4c-8f46-4c644d177076,Laurastar Steam Iron,Premium Swiss garment care system,3499.0,15,HM-30019,True,2024-01-14 09:45:45,2024-01-14 09:45:45,home
+b424f935-d06d-400d-a2a1-763fc00e20e2,Sharp Electric Fan,Quiet operation pedestal fan,499.0,80,HM-30020,True,2024-01-14 12:00:00,2024-01-14 12:00:00,home
+86d87829-8acc-4a04-b2c4-c110134a4015,Corelle Dinner Set,Chip-resistant dinnerware set for 6,899.0,60,HM-30021,True,2024-01-15 14:15:15,2024-01-15 14:15:15,home
+d1107c02-890c-4688-a357-7f92bda924af,Chinese Tea Ceremony Set,Porcelain gongfu tea set,599.0,40,HM-30022,True,2024-01-15 16:30:30,2024-01-15 16:30:30,home
+19c942c4-4841-45f8-bf20-76e45d4f9151,Kitchen Knife Set,Professional chef knives with block,799.0,50,HM-30023,False,2024-01-16 09:45:45,2024-01-16 09:45:45,home
+293631c1-9631-44f3-9fab-155d1b4faeea,Mahjong Set,Traditional game with case,699.0,55,HM-30024,True,2024-01-16 12:00:00,2024-01-16 12:00:00,home
+48258cb6-6e37-4dd7-99e7-f22e50a648e0,Smart Door Lock,Fingerprint and password security,1599.0,35,HM-30025,True,2024-01-17 14:15:15,2024-01-17 14:15:15,home
+1e09a88a-451c-4b54-911a-a675f7b46575,Space-Saving Clothes Rack,Retractable indoor drying system,299.0,90,HM-30026,True,2024-01-17 16:30:30,2024-01-17 16:30:30,home
+871a0861-ad7f-4662-8a28-68e1b8dd9f75,Ceramic Tea Mug with Infuser,Personal tea brewing mug,179.0,120,HM-30027,True,2024-01-18 09:45:45,2024-01-18 09:45:45,home
+8b02fbad-f0a8-4164-818d-90972b3e3536,Stainless Steel Wok,Traditional Chinese cooking pan,399.0,70,HM-30028,True,2024-01-18 12:00:00,2024-01-18 12:00:00,home
+cdd125e3-ef1c-46c9-9537-3c193f062830,Feng Shui Wealth Ornament,Prosperity decoration for home,159.0,100,HM-30029,True,2024-01-19 14:15:15,2024-01-19 14:15:15,home
+915242b0-2998-486c-aa63-3cb09c49f3c9,Vacuum Storage Bags,Space-saving compression bags,99.0,150,HM-30030,True,2024-01-19 16:30:30,2024-01-19 16:30:30,home
+d6bfb19f-b420-4fb9-8a92-547b9d86ea36,LEGO Star Wars Set,Millennium Falcon building set,1299.0,40,TY-40001,True,2024-01-05 10:30:15,2024-01-05 10:30:15,toys
+24b6a561-8e41-464f-979a-e76a43f8b0ac,Octopus Card Game,Hong Kong-themed card game for families,129.0,80,TY-40002,False,2024-01-05 13:45:30,2024-01-05 13:45:30,toys
+212b18a2-2e23-46d2-9493-9dde6a9b26d6,MTR Playset,Miniature Hong Kong MTR station and train,249.0,60,TY-40003,True,2024-01-06 09:35:45,2024-01-06 09:35:45,toys
+a76e6c5f-e7c3-446c-9ca9-ab8b8303dc57,Barbie Collector Doll,Limited edition fashion doll,399.0,50,TY-40004,True,2024-01-06 11:50:00,2024-01-06 11:50:00,toys
+02f017eb-fbe8-4ff3-8f90-82bbc405dc5e,Remote Control Drone,Entry-level camera drone,599.0,45,TY-40005,True,2024-01-07 14:25:15,2024-01-07 14:25:15,toys
+ebb5e439-856d-4176-b588-fe8c588cba8c,Monopoly Hong Kong Edition,Local version of classic board game,269.0,70,TY-40006,True,2024-01-07 16:40:30,2024-01-07 16:40:30,toys
+09c94971-8ac0-4f6f-9a75-6410522552c6,Nerf Blaster,Foam dart launcher toy,299.0,90,TY-40007,True,2024-01-08 09:55:45,2024-01-08 09:55:45,toys
+b69ec2dc-b8db-4f24-acfe-562974fa7aaf,Hot Wheels Car Set,Collectible die-cast vehicles 10-pack,159.0,100,TY-40008,False,2024-01-08 12:10:00,2024-01-08 12:10:00,toys
+5f27e811-3289-4d7f-879c-43c80f3bfa86,Rubik's Cube,Classic 3x3 puzzle cube,99.0,120,TY-40009,True,2024-01-09 14:20:15,2024-01-09 14:20:15,toys
+3e6d138a-ab10-437b-91a6-8e132e696dd4,Disney Princess Doll,Collectible character doll,199.0,80,TY-40010,True,2024-01-09 16:35:30,2024-01-09 16:35:30,toys
+4c1f5761-06a8-4f25-be0b-f02039a8abc6,Nintendo Amiibo Figure,Interactive gaming figure,119.0,70,TY-40011,True,2024-01-10 09:50:45,2024-01-10 09:50:45,toys
+ed9db6cb-5d58-4698-ad91-be31e3703a3e,Play-Doh Creative Kit,Modeling clay set with tools,149.0,90,TY-40012,True,2024-01-10 12:05:00,2024-01-10 12:05:00,toys
+506f2796-9d3a-4a07-a321-1f501e724f9c,Tamagotchi Digital Pet,Virtual pet electronic toy,199.0,60,TY-40013,True,2024-01-11 14:20:15,2024-01-11 14:20:15,toys
+14d78028-7104-46a0-89d6-9975c597914a,Baby Shark Plush Toy,Singing plush character,159.0,100,TY-40014,True,2024-01-11 16:35:30,2024-01-11 16:35:30,toys
+884b82e0-2dfa-4a8e-91be-f519182f9076,UNO Card Game,Classic family card game,79.0,150,TY-40015,True,2024-01-12 09:50:45,2024-01-12 09:50:45,toys
+cb9e5e9d-800d-430b-bdd4-9ca766ed8f34,Minecraft LEGO Set,Building block set of popular game,399.0,40,TY-40016,True,2024-01-12 12:05:00,2024-01-12 12:05:00,toys
+ef42aa02-a35f-4e11-ae41-512db3ad8dc7,Pokemon Trading Cards,Booster pack with 10 cards,69.0,200,TY-40017,True,2024-01-13 14:20:15,2024-01-13 14:20:15,toys
+052906f6-01cd-4b82-9d1b-a29ea86192ea,Catan Board Game,Strategic settlement board game,399.0,50,TY-40018,True,2024-01-13 16:35:30,2024-01-13 16:35:30,toys
+8299ea6a-3dba-4a05-9704-bf83ef450390,Transformer Action Figure,Converting robot toy,249.0,60,TY-40019,True,2024-01-14 09:50:45,2024-01-14 09:50:45,toys
+f822bf2d-5703-4c32-a9bf-ef126acd9fe4,Jellycat Stuffed Animal,Premium soft plush toy,269.0,70,TY-40020,True,2024-01-14 12:05:00,2024-01-14 12:05:00,toys
+b34d875f-72d7-4512-ac6e-f683ed5ed60c,Xiaomi Wireless Earbuds,Affordable TWS earphones,399.0,95,EL-10051,True,2024-01-30 14:30:55,2024-01-30 14:30:55,electronics
+0d18bcee-2dc2-40fc-9670-30c064ced6a1,Panasonic Hair Dryer,1800W salon professional dryer,399.0,70,EL-10052,True,2024-01-30 16:45:10,2024-01-30 16:45:10,electronics
+48fcedeb-d3dc-474e-acf3-cffefeadd20c,Olympus Tough Camera,Waterproof point-and-shoot camera,2999.0,35,EL-10053,True,2024-01-31 10:25:25,2024-01-31 10:25:25,electronics
+c8997e59-57db-4e1e-8ed4-348c1a242d9f,Roborock Robot Vacuum,Smart vacuum with mopping function,2999.0,40,EL-10054,True,2024-01-31 13:40:40,2024-01-31 13:40:40,electronics
+6e832032-8985-4ff2-8947-deca7688f50d,Seagate Backup Plus 5TB,External desktop hard drive,1299.0,55,EL-10055,True,2024-02-01 09:20:55,2024-02-01 09:20:55,electronics
+f9b1c8b0-19b0-4267-b165-4d0fb57566d3,Suunto Sports Watch,GPS multisport watch,3299.0,30,EL-10056,True,2024-02-01 11:35:10,2024-02-01 11:35:10,electronics
+a065fd2b-c09c-4051-83bd-0abcab9f7413,B&O Bluetooth Speaker,Premium portable speaker,2199.0,40,EL-10057,True,2024-02-02 14:45:25,2024-02-02 14:45:25,electronics
+7aa09e6c-ac06-43c2-bbc3-4a4c3f79d84f,Philips Electric Toothbrush,Sonic cleaning technology with app,899.0,65,EL-10058,True,2024-02-02 17:00:40,2024-02-02 17:00:40,electronics
+74462692-db14-4dc5-8070-2c58ad0b3300,TP-Link WiFi Extender,Network signal booster,299.0,90,EL-10059,True,2024-02-03 10:15:55,2024-02-03 10:15:55,electronics
+260420b3-71e0-4ad6-a795-e4bb476d7d0e,Epson EcoTank Printer,Refillable ink tank printer,2199.0,40,EL-10060,True,2024-02-03 13:25:10,2024-02-03 13:25:10,electronics
+14f114f9-5067-40e6-80df-988021287721,HP Spectre Laptop,Premium thin and light laptop,13999.0,25,EL-10061,False,2024-02-04 09:40:25,2024-02-04 09:40:25,electronics
+c22e0a7e-d80f-4910-89f5-4a3035d347f0,Marshall Headphones,Retro-design over-ear headphones,1899.0,45,EL-10062,True,2024-02-04 11:55:40,2024-02-04 11:55:40,electronics
+7e74a9db-bf05-4b71-9f03-68f734f8293f,Withings Smart Scale,WiFi body composition scale,899.0,60,EL-10063,True,2024-02-05 14:30:55,2024-02-05 14:30:55,electronics
+67f0bc06-203b-4514-9646-5f4d690671ef,Xbox Series X,Microsoft gaming console,3799.0,35,EL-10064,True,2024-02-05 16:45:10,2024-02-05 16:45:10,electronics
+586aea71-9b05-42d0-b528-54d957a3c2fc,Ecovacs Robot Mop,Intelligent floor cleaning robot,2499.0,30,EL-10065,True,2024-02-06 10:25:25,2024-02-06 10:25:25,electronics
+970242a1-b920-4033-9ce3-6cc6cf5d429b,Casio G-Shock Watch,Rugged digital watch,999.0,75,EL-10066,True,2024-02-06 13:40:40,2024-02-06 13:40:40,electronics
+35b660b0-ab5f-4623-8a8c-900398b5d584,Audio-Technica Turntable,Vinyl record player with Bluetooth,2299.0,25,EL-10067,True,2024-02-07 09:20:55,2024-02-07 09:20:55,electronics
+be591a77-62cd-4f83-95ad-84ff56519ef4,Huawei Smart Watch,Fitness tracker with heart rate monitor,1499.0,65,EL-10068,False,2024-02-07 11:35:10,2024-02-07 11:35:10,electronics
+c4483847-b162-4c03-a79e-cc4a0b30a691,MSI Gaming Laptop,High-performance gaming notebook,13999.0,20,EL-10069,True,2024-02-08 14:45:25,2024-02-08 14:45:25,electronics
+176844b7-c26d-415e-a8da-78ba24c996a1,Fossil Smart Watch,Hybrid smartwatch with classic look,1699.0,55,EL-10070,True,2024-02-08 17:00:40,2024-02-08 17:00:40,electronics
+597a1b8c-f704-435f-9ffc-5dd366a743e8,POCO Smartphone,Value flagship smartphone,2999.0,60,EL-10071,True,2024-02-09 10:15:55,2024-02-09 10:15:55,electronics
+1024e295-aeda-400c-bd84-97be64993ca2,Sennheiser Wireless Headphones,Premium audio headphones,1999.0,50,EL-10072,True,2024-02-09 13:25:10,2024-02-09 13:25:10,electronics
+607f660f-5e8a-4de8-832e-72735c605245,Yamaha Sound Bar,Home theater sound system,3499.0,30,EL-10073,True,2024-02-10 09:40:25,2024-02-10 09:40:25,electronics
+9d54a209-5e19-4f15-89b1-62a57234fd91,Logitech Webcam,Full HD streaming camera,799.0,70,EL-10074,False,2024-02-10 11:55:40,2024-02-10 11:55:40,electronics
+c4dd94f0-90a1-413c-af8b-a1f9d20dab14,Polar Fitness Tracker,Advanced health monitoring wearable,1799.0,45,EL-10075,False,2024-02-11 14:30:55,2024-02-11 14:30:55,electronics
+5cfc6d15-f272-49b0-8050-bb9c20f2f8f1,Brother Label Maker,Portable label printing device,499.0,55,EL-10076,True,2024-02-11 16:45:10,2024-02-11 16:45:10,electronics
+a20f5eed-d45b-48e9-9717-5d037feef4cd,Corsair Gaming Mouse,RGB gaming mouse with programmable buttons,599.0,85,EL-10077,True,2024-02-12 10:25:25,2024-02-12 10:25:25,electronics
+0a8cfa17-ec0a-49da-a167-7c74781fd092,Samsung Tablet,Android tablet with S Pen,3999.0,0,EL-10078,True,2024-02-12 13:40:40,2024-02-12 13:40:40,electronics
+bf241e2e-9465-43c9-8664-1fcff0e5bfba,JBL Portable Speaker,Waterproof Bluetooth speaker,899.0,75,EL-10079,False,2024-02-13 09:20:55,2024-02-13 09:20:55,electronics
+520194f6-5962-495b-8156-69175feca823,NutriBullet Blender,Personal smoothie blender,899.0,60,EL-10080,True,2024-02-13 11:35:10,2024-02-13 11:35:10,electronics
+61312aad-d60f-459f-a26f-258802903885,BenQ Projector,Home cinema projector,4499.0,20,EL-10081,True,2024-02-14 14:45:25,2024-02-14 14:45:25,electronics
+28117627-5fba-4d54-b0d7-88c7267296e4,SanDisk 256GB USB Drive,High-speed flash storage,399.0,0,EL-10082,True,2024-02-14 17:00:40,2024-02-14 17:00:40,electronics
+80e4831e-4a55-453d-8057-e1e1ba482cb2,Zhiyun Smartphone Gimbal,3-axis stabilizer for mobile videos,899.0,50,EL-10083,True,2024-02-15 10:15:55,2024-02-15 10:15:55,electronics
+1ec0011e-8e07-4a16-9be8-fcf11d6bce33,Breville Espresso Machine,Semi-automatic coffee maker,3999.0,25,EL-10084,True,2024-02-15 13:25:10,2024-02-15 13:25:10,electronics
+8ba335d6-1537-4a15-8aac-d3bf3894631f,Nextbase Dash Cam,Car video recorder with GPS,1299.0,45,EL-10085,True,2024-02-16 09:40:25,2024-02-16 09:40:25,electronics
+f89efb27-a0ec-4835-8e28-00e91fd41cf5,Nespresso Coffee Machine,Capsule coffee maker,1499.0,60,EL-10086,False,2024-02-16 11:55:40,2024-02-16 11:55:40,electronics
+ee73bc8e-4eba-49ba-977d-965b0fd70de6,Nikon Binoculars,10x42 waterproof binoculars,1699.0,30,EL-10087,True,2024-02-17 14:30:55,2024-02-17 14:30:55,electronics
+aae23926-07a8-4770-8888-32213df4be35,Omron Blood Pressure Monitor,Digital automatic BP monitor,699.0,70,EL-10088,True,2024-02-17 16:45:10,2024-02-17 16:45:10,electronics
+24c2de05-2bb8-46cd-8e16-27bb9fc362fe,Tefal Steam Iron,Ceramic soleplate iron,499.0,85,EL-10089,True,2024-02-18 10:25:25,2024-02-18 10:25:25,electronics
+aef746a4-5f0c-44e0-9a6d-febb142e8c84,Oral-B Electric Toothbrush,Smart toothbrush with pressure sensor,599.0,90,EL-10090,False,2024-02-18 13:40:40,2024-02-18 13:40:40,electronics
+32b1760d-2a37-4c3c-b90c-6213a3980688,TP-Link Smart Plug,WiFi-controlled power outlet,199.0,0,EL-10091,True,2024-02-19 09:20:55,2024-02-19 09:20:55,electronics
+7201fb92-0e2f-4f7c-9e96-4f74f85cb3b4,ViewSonic Monitor,"27"" IPS display for work",1999.0,40,EL-10092,True,2024-02-19 11:35:10,2024-02-19 11:35:10,electronics
+bf1ab0ec-4c15-4bdc-b062-21c7e6c13c4a,Roku Streaming Stick,4K media player with voice remote,499.0,75,EL-10093,True,2024-02-20 14:45:25,2024-02-20 14:45:25,electronics
+a41f973d-a14f-48fd-92d2-9209e8d51122,Nanoleaf Light Panels,Smart modular lighting system,1799.0,30,EL-10094,True,2024-02-20 17:00:40,2024-02-20 17:00:40,electronics
+13be5a0c-1da5-424e-8c24-63ed3939cdad,Motorola Baby Monitor,Digital video baby monitor,999.0,50,EL-10095,True,2024-02-21 10:15:55,2024-02-21 10:15:55,electronics
+c4ecd9a1-42dd-45d5-ad8d-002063c2fd34,Canon Pixma Printer,All-in-one inkjet printer,899.0,60,EL-10096,True,2024-02-21 13:25:10,2024-02-21 13:25:10,electronics
+99643207-61fc-412d-a63f-10aa7d8893b6,iRobot Roomba,Intelligent vacuum cleaning robot,3499.0,35,EL-10097,True,2024-02-22 09:40:25,2024-02-22 09:40:25,electronics
+05982709-0a01-4f91-b3ca-84044eb3910e,3M Air Purifier,HEPA filter air cleaner,2299.0,40,EL-10098,True,2024-02-22 11:55:40,2024-02-22 11:55:40,electronics
+4275b5f5-6ef3-49ba-adca-227430d957e7,QNAP NAS System,Network storage for home,3999.0,20,EL-10099,True,2024-02-23 14:30:55,2024-02-23 14:30:55,electronics
+8432be72-ed70-40ef-8f1e-f44c56c23864,Instax Mini Camera,Instant photo camera,799.0,70,EL-10100,True,2024-02-23 16:45:10,2024-02-23 16:45:10,electronics
+a0b2abf4-9cab-4690-a1aa-e032130f8903,Adidas Track Pants,Athletic sweatpants with stripes,399.0,0,CL-20033,True,2024-01-21 14:10:15,2024-01-21 14:10:15,clothing
+f0a60de7-00ea-4e62-aebd-9c3fdbd10b60,Asics Running Shoes,Gel-cushioned performance shoes,899.0,100,CL-20034,False,2024-01-21 16:25:30,2024-01-21 16:25:30,clothing
+2385a5e9-ecc1-44e6-9ada-6b59f1f4a030,Nike Windbreaker,Lightweight water-resistant jacket,599.0,0,CL-20035,True,2024-01-22 09:40:45,2024-01-22 09:40:45,clothing
+703573e4-dafb-4aa1-bd57-5a3f6d17beaf,Zara Slim Fit Trousers,Modern tailored pants,399.0,120,CL-20036,True,2024-01-22 11:55:00,2024-01-22 11:55:00,clothing
+4ddf26a5-fc5a-4551-a12b-70f8994e9a00,Under Armour Hoodie,Performance fleece sweatshirt,499.0,100,CL-20037,True,2024-01-23 14:10:15,2024-01-23 14:10:15,clothing
+d5be3e09-f79b-44b5-9f78-bbc6fef48de5,H&M Denim Jacket,Classic jean jacket,349.0,90,CL-20038,True,2024-01-23 16:25:30,2024-01-23 16:25:30,clothing
+828584d7-ab44-4d46-b1bb-89846a378441,Puma Sports Bra,Medium-support workout top,259.0,130,CL-20039,True,2024-01-24 09:40:45,2024-01-24 09:40:45,clothing
+fc10dbdb-3e40-4c67-97fe-e94de188c584,Reebok Training Shorts,Breathable gym shorts,299.0,150,CL-20040,True,2024-01-24 11:55:00,2024-01-24 11:55:00,clothing
+65172f3f-0267-43a9-ad7b-7757821f9fec,Uniqlo Down Jacket,Ultra light warm jacket,599.0,80,CL-20041,True,2024-01-25 14:10:15,2024-01-25 14:10:15,clothing
+e7bbdb71-f7a6-4506-b6fe-dce4f9897f4e,Salomon Trail Shoes,Off-road running footwear,1099.0,60,CL-20042,True,2024-01-25 16:25:30,2024-01-25 16:25:30,clothing
+bc2d6f64-6969-4610-a4c5-3537f62aeb59,Gap Sweatshirt,Logo crew neck sweatshirt,349.0,0,CL-20043,True,2024-01-26 09:40:45,2024-01-26 09:40:45,clothing
+f5cea991-b976-4908-bb19-fb5f3b8d1798,Brooks Running Tights,Compression leggings,399.0,90,CL-20044,True,2024-01-26 11:55:00,2024-01-26 11:55:00,clothing
+984c357a-7b5f-4724-89c1-b2019d237fca,Mizuno Baseball Cap,Adjustable sports hat,199.0,160,CL-20045,True,2024-01-27 14:10:15,2024-01-27 14:10:15,clothing
+d3acd8e1-c725-4c0e-9563-99ecbf360929,The North Face Backpack,Weather-resistant day pack,799.0,70,CL-20046,True,2024-01-27 16:25:30,2024-01-27 16:25:30,clothing
+20149d03-1c85-4da9-93d0-1358c95e6828,Champion Sweatpants,Elastic waist casual pants,299.0,130,CL-20047,True,2024-01-28 09:40:45,2024-01-28 09:40:45,clothing
+7eb2c8c4-142e-470b-ac81-de801b928634,Columbia Rain Jacket,Waterproof outdoor coat,899.0,60,CL-20048,False,2024-01-28 11:55:00,2024-01-28 11:55:00,clothing
+c0040b0b-018b-4771-9948-1001b25e512f,Hanes T-Shirt 5-Pack,Basic crew neck tees,249.0,0,CL-20049,True,2024-01-29 14:10:15,2024-01-29 14:10:15,clothing
+3dc9bf16-92be-40dc-a274-abb92fd5ece7,Dr. Martens Boots,Classic leather boots,1499.0,50,CL-20050,True,2024-01-29 16:25:30,2024-01-29 16:25:30,clothing
+3a374be8-add2-445d-842b-38384c6fc13a,Merrell Hiking Boots,Waterproof trail footwear,1299.0,45,CL-20051,True,2024-01-30 09:40:45,2024-01-30 09:40:45,clothing
+fd6a31a8-a2f9-42e1-ba1d-8af03ebbd495,Ray-Ban Sunglasses,Classic Wayfarer design,1499.0,60,CL-20052,False,2024-01-30 11:55:00,2024-01-30 11:55:00,clothing
+45a01fdb-f36a-46ec-afde-0c138132a859,Lululemon Yoga Pants,High-waisted stretchy leggings,799.0,80,CL-20053,True,2024-01-31 14:10:15,2024-01-31 14:10:15,clothing
+0d57deaa-d848-4330-a27c-6a115a4b1bc3,Birkenstock Sandals,Ergonomic cork footbed sandals,699.0,70,CL-20054,True,2024-01-31 16:25:30,2024-01-31 16:25:30,clothing
+f224b7c6-b3be-4ad7-8dd7-7cf841f3a847,Herschel Tote Bag,Casual canvas carry-all,399.0,90,CL-20055,True,2024-02-01 09:40:45,2024-02-01 09:40:45,clothing
+32232522-0fc6-41a4-8771-ad822467689c,Ralph Lauren Polo Shirt,Classic pony logo polo,799.0,65,CL-20056,True,2024-02-01 11:55:00,2024-02-01 11:55:00,clothing
+99077372-a4d3-4256-93f0-089ca1c24c75,Skechers Walking Shoes,Memory foam comfort shoes,599.0,0,CL-20057,True,2024-02-02 14:10:15,2024-02-02 14:10:15,clothing
+9ff6f1df-4d69-4578-ac3d-54b4e2f992d3,Patagonia Fleece Jacket,Recycled polyester fleece,1099.0,50,CL-20058,True,2024-02-02 16:25:30,2024-02-02 16:25:30,clothing
+5e336280-365f-4d75-a41c-3b1bfe9828ef,Swiss Army Backpack,Multi-compartment travel pack,699.0,65,CL-20059,True,2024-02-03 09:40:45,2024-02-03 09:40:45,clothing
+76afaeae-eee8-4062-a588-636135bedd5c,GORE-TEX Hiking Jacket,High-performance outdoor shell,1899.0,40,CL-20060,True,2024-02-03 11:55:00,2024-02-03 11:55:00,clothing
+96144a3f-5ea7-48f1-bb88-f4f34806182b,Canton Porcelain Set,Traditional Chinese blue and white set,799.0,45,HM-30031,True,2024-01-20 09:50:45,2024-01-20 09:50:45,home
+3b33e3b1-cb31-4826-9a98-3d8b17c0a8ce,Xiaomi Smart Scale,Digital body weight scale with app,199.0,0,HM-30032,True,2024-01-20 12:05:00,2024-01-20 12:05:00,home
+d9cd2d68-e019-4a27-b928-08380ec26343,Alessi Kettle,Designer stovetop kettle,1099.0,30,HM-30033,True,2024-01-21 14:20:15,2024-01-21 14:20:15,home
+05ecb3f1-5632-40a8-8237-a20135c3fb10,Ergonomic Office Chair,Adjustable home office seating,1299.0,40,HM-30034,True,2024-01-21 16:35:30,2024-01-21 16:35:30,home
+96815351-b699-464a-a1ea-b5dcac07cfc2,Silk Embroidered Cushion,Traditional Chinese handicraft pillow,399.0,60,HM-30035,True,2024-01-22 09:50:45,2024-01-22 09:50:45,home
+9ea70acf-d5c4-44f0-9855-11049eccdde8,Joseph Joseph Kitchen Set,Space-saving utensil collection,499.0,70,HM-30036,True,2024-01-22 12:05:00,2024-01-22 12:05:00,home
+3d145b1b-6c53-4de5-90eb-1599eb5b9946,LED Desk Lamp,Adjustable brightness study lamp,259.0,100,HM-30037,True,2024-01-23 14:20:15,2024-01-23 14:20:15,home
+6cc0db77-6279-4b89-9ba3-1ae2e4d68bdb,HEPA Air Filter,Replacement filter for air purifiers,299.0,80,HM-30038,True,2024-01-23 16:35:30,2024-01-23 16:35:30,home
+b006afc7-f1bb-4665-9b26-154bcacff610,Bamboo Cutting Board,Eco-friendly kitchen board,159.0,120,HM-30039,True,2024-01-24 09:50:45,2024-01-24 09:50:45,home
+6ffa9cdd-fd04-412f-a5fa-a1a9a7b1ab77,Hong Kong Street Sign,Authentic replica street nameplate,199.0,85,HM-30040,True,2024-01-24 12:05:00,2024-01-24 12:05:00,home
+9c180481-860c-4e59-9f6e-7d90a8c3dcf9,Jade Plant in Ceramic Pot,Lucky feng shui living plant,259.0,70,HM-30041,True,2024-01-25 14:20:15,2024-01-25 14:20:15,home
+a3375894-7e87-4af8-954d-4b70ad1fa311,Non-Stick Wok Set,Complete Chinese cooking set,399.0,60,HM-30042,True,2024-01-25 16:35:30,2024-01-25 16:35:30,home
+f73136c1-3c09-4526-8ad7-d63294bbec9a,Calligraphy Wall Scroll,Handwritten blessing character scroll,299.0,50,HM-30043,True,2024-01-26 09:50:45,2024-01-26 09:50:45,home
+b6a84af2-13e8-4e19-ae8f-8b959a1fd434,IKEA Storage System,Modular home organization solution,599.0,45,HM-30044,True,2024-01-26 12:05:00,2024-01-26 12:05:00,home
+81757cea-9eae-4939-ab9e-3d25d4909f26,Digital Kitchen Scale,Precise cooking measurement tool,149.0,0,HM-30045,False,2024-01-27 14:20:15,2024-01-27 14:20:15,home
+9b88b516-ad44-4bf5-af2d-bc2da802ba90,Aroma Reed Diffuser,Long-lasting home fragrance,199.0,100,HM-30046,True,2024-01-27 16:35:30,2024-01-27 16:35:30,home
+328f9a20-fff4-4ec1-b25e-744e491c022f,Traditional Door Chime,Lucky entrance bell with red tassel,129.0,90,HM-30047,True,2024-01-28 09:50:45,2024-01-28 09:50:45,home
+7ef2c4a2-e670-4753-b8ed-e4a8cecb873f,Handmade Soap Set,Natural ingredient luxury soaps,179.0,110,HM-30048,True,2024-01-28 12:05:00,2024-01-28 12:05:00,home
+8deafa4d-b2b4-4b81-a430-abd0a496a95b,Wooden Tea Tray,Chinese tea ceremony serving board,349.0,60,HM-30049,True,2024-01-29 14:20:15,2024-01-29 14:20:15,home
+38cc0c04-112a-4379-9f73-75e0e56ebbaa,Silicone Baking Set,Non-stick bakeware collection,299.0,75,HM-30050,True,2024-01-29 16:35:30,2024-01-29 16:35:30,home
+5bbc7306-24da-409c-99a0-e2178ecd4316,Cordless Stick Vacuum,Lightweight home cleaning tool,999.0,40,HM-30051,True,2024-01-30 09:50:45,2024-01-30 09:50:45,home
+561b859c-e0ad-46e7-a2ad-f953462b318c,Kyoto Ceramic Bowl Set,Japanese-style dining bowls,399.0,65,HM-30052,True,2024-01-30 12:05:00,2024-01-30 12:05:00,home
+12faf23a-1b5b-4992-bb19-3704299d3dc9,Crystal Lotus Ornament,Decorative feng shui crystal,159.0,90,HM-30053,True,2024-01-31 14:20:15,2024-01-31 14:20:15,home
+9c1fbcf0-22f6-42de-a4f9-92590f741283,European Down Duvet,Premium feather comforter,1299.0,30,HM-30054,True,2024-01-31 16:35:30,2024-01-31 16:35:30,home
+2ad66cce-3d0c-48c4-94e1-870c0c902341,Traditional Incense Holder,Ceramic incense stick burner,129.0,100,HM-30055,True,2024-02-01 09:50:45,2024-02-01 09:50:45,home
+5d53395b-2c30-4dd8-8aee-f547bad7ccfa,Smart Kitchen Timer,Digital cooking countdown tool,89.0,0,HM-30056,False,2024-02-01 12:05:00,2024-02-01 12:05:00,home
+9522bb99-f5dd-42c6-baf7-e7aeb842be77,Magnetic Spice Rack,Space-saving kitchen organization,199.0,85,HM-30057,True,2024-02-02 14:20:15,2024-02-02 14:20:15,home
+fd7a3f46-be88-4eef-8ee7-3c7446fee71a,Photo Frame Set,Multiple picture frames for wall,259.0,70,HM-30058,True,2024-02-02 16:35:30,2024-02-02 16:35:30,home
+5facc5e9-e6ad-414b-957d-fef2d55f70bd,Hong Kong Skyline Model,Miniature cityscape sculpture,299.0,55,HM-30059,True,2024-02-03 09:50:45,2024-02-03 09:50:45,home
+225c061e-b97f-422d-93b2-07637e9c6586,Compact Food Processor,Multi-function kitchen appliance,599.0,45,HM-30060,True,2024-02-03 12:05:00,2024-02-03 12:05:00,home
+5c2a006b-5a3b-48e4-8095-a3f820df14bd,Rubik's Speed Cube,Competition-grade puzzle cube,159.0,80,TY-40021,True,2024-01-15 14:20:15,2024-01-15 14:20:15,toys
+f48a813e-636d-45a2-8d6f-3d3bb8356ed5,Bandai Gundam Model Kit,Plastic assembly robot model,249.0,60,TY-40022,True,2024-01-15 16:35:30,2024-01-15 16:35:30,toys
+7629a5cb-d6ed-484d-9551-7406b103261e,Chess and Checkers Set,Classic board games with wooden pieces,199.0,70,TY-40023,True,2024-01-16 09:50:45,2024-01-16 09:50:45,toys
+74503c5a-c4d8-488f-92ac-74650a354bc7,LEGO Technic Set,Advanced building blocks with functions,899.0,35,TY-40024,True,2024-01-16 12:05:00,2024-01-16 12:05:00,toys
+fd34fd1b-7008-4630-878d-f361c3635ca5,Inflatable Swimming Pool,Family-sized backyard pool,399.0,50,TY-40025,True,2024-01-17 14:20:15,2024-01-17 14:20:15,toys
+8c5f4a74-caa5-468c-a266-bb55c6986ec2,Radio Control Car,High-speed remote control vehicle,399.0,55,TY-40026,True,2024-01-17 16:35:30,2024-01-17 16:35:30,toys
+5d18ac0e-d3b3-4300-bff3-c3e5c06b4e12,Puzzle Set 1000 Pieces,Hong Kong harbor jigsaw puzzle,199.0,0,TY-40027,True,2024-01-18 09:50:45,2024-01-18 09:50:45,toys
+75644aa2-9726-44d0-9813-1dae174c577a,Magic: The Gathering Cards,Trading card game starter deck,189.0,75,TY-40028,True,2024-01-18 12:05:00,2024-01-18 12:05:00,toys
+f8cefed6-1e34-476d-9321-bc42096ffd52,Scientific Explorer Kit,Educational science experiments set,299.0,50,TY-40029,True,2024-01-19 14:20:15,2024-01-19 14:20:15,toys
+d8afd041-06de-4b0c-9675-3f0606f0aa51,Disney Stitch Plush,Soft character toy from Lilo & Stitch,199.0,90,TY-40030,False,2024-01-19 16:35:30,2024-01-19 16:35:30,toys
+1673ec0c-d795-45ae-a9bd-97b5db2ec55d,Chinese Chess Set,Traditional strategy board game,159.0,70,TY-40031,True,2024-01-20 09:50:45,2024-01-20 09:50:45,toys
+e8dee8dd-8a0e-4b55-aa0a-e92abeabe586,Yo-Yo Professional,Competition-grade yo-yo,129.0,80,TY-40032,True,2024-01-20 12:05:00,2024-01-20 12:05:00,toys
+6877d577-32f5-4a30-85c9-e690a55484c2,Hasbro Nerf Ultra,Long-range foam dart blaster,299.0,65,TY-40033,True,2024-01-21 14:20:15,2024-01-21 14:20:15,toys
+99a2d49f-6350-4170-9c60-f2c1376f18c8,Melissa & Doug Wooden Toys,Educational wooden toy set,249.0,55,TY-40034,True,2024-01-21 16:35:30,2024-01-21 16:35:30,toys
+8670da84-c275-406b-87ba-7eaf01ebcaff,Bubble Machine,Automatic bubble blower for kids,149.0,90,TY-40035,True,2024-01-22 09:50:45,2024-01-22 09:50:45,toys
+b9cadd5f-7a0d-4fa4-b8ee-3778b7b91b83,Mini Basketball Hoop,Door-mounted basketball set,199.0,60,TY-40036,True,2024-01-22 12:05:00,2024-01-22 12:05:00,toys
+f916308b-7095-4012-8ca8-fe98dd7cdb75,Soft Building Blocks,Safe foam blocks for toddlers,159.0,75,TY-40037,True,2024-01-23 14:20:15,2024-01-23 14:20:15,toys
+c3ed68ec-cd67-4cae-bdd3-aef9b7d2d209,Finger Skateboard Set,Mini skatepark with boards,99.0,110,TY-40038,False,2024-01-23 16:35:30,2024-01-23 16:35:30,toys
+dbc52251-8b61-4c36-b372-82a1185d2b47,Star Wars Action Figure,Collectible character figure,199.0,65,TY-40039,True,2024-01-24 09:50:45,2024-01-24 09:50:45,toys
+b5f5a20f-8626-428e-a43b-99f0d0072716,Marvel Avengers Playset,Superhero action figure collection,349.0,50,TY-40040,True,2024-01-24 12:05:00,2024-01-24 12:05:00,toys
