@@ -13,7 +13,6 @@ anyio==4.9.0
     #   httpx
     #   mcp
     #   openai
-    #   pydantic-evals
     #   sse-starlette
     #   starlette
 appnope==0.1.4 ; sys_platform == 'darwin'
@@ -43,7 +42,7 @@ charset-normalizer==3.4.1
     # via requests
 click==8.1.8
     # via uvicorn
-cohere==5.15.0 ; sys_platform != 'emscripten'
+cohere==5.15.0
     # via pydantic-ai-slim
 colorama==0.4.6
     # via
@@ -74,13 +73,13 @@ eval-type-backport==0.2.2
     #   pydantic-ai-slim
 executing==2.2.0
     # via stack-data
-fastavro==1.10.0 ; sys_platform != 'emscripten'
+fastavro==1.10.0
     # via cohere
-filelock==3.18.0 ; sys_platform != 'emscripten'
+filelock==3.18.0
     # via huggingface-hub
 fonttools==4.57.0
     # via matplotlib
-fsspec==2025.3.2 ; sys_platform != 'emscripten'
+fsspec==2025.3.2
     # via huggingface-hub
 gevent==25.4.1
     # via hkpug-meetup85-agenticworkflow
@@ -114,7 +113,7 @@ httpx-sse==0.4.0
     # via
     #   cohere
     #   mcp
-huggingface-hub==0.30.2 ; sys_platform != 'emscripten'
+huggingface-hub==0.30.2
     # via tokenizers
 idna==3.10
     # via
@@ -147,9 +146,7 @@ jupyter-core==5.7.2
 kiwisolver==1.4.8
     # via matplotlib
 logfire-api==3.14.0
-    # via
-    #   pydantic-evals
-    #   pydantic-graph
+    # via pydantic-graph
 markdown-it-py==3.0.0
     # via rich
 matplotlib==3.10.1
@@ -217,23 +214,18 @@ pydantic==2.11.3
     #   mistralai
     #   openai
     #   pydantic-ai-slim
-    #   pydantic-evals
     #   pydantic-graph
     #   pydantic-settings
     #   sqlmodel
-pydantic-ai==0.1.3
+pydantic-ai==0.0.42
     # via hkpug-meetup85-agenticworkflow
-pydantic-ai-slim==0.1.3
-    # via
-    #   pydantic-ai
-    #   pydantic-evals
+pydantic-ai-slim==0.0.42
+    # via pydantic-ai
 pydantic-core==2.33.1
     # via
     #   cohere
     #   pydantic
-pydantic-evals==0.1.3
-    # via pydantic-ai-slim
-pydantic-graph==0.1.3
+pydantic-graph==0.0.42
     # via pydantic-ai-slim
 pydantic-settings==2.9.1
     # via mcp
@@ -258,9 +250,7 @@ pytz==2025.2
 pywin32==310 ; platform_python_implementation != 'PyPy' and sys_platform == 'win32'
     # via jupyter-core
 pyyaml==6.0.2
-    # via
-    #   huggingface-hub
-    #   pydantic-evals
+    # via huggingface-hub
 pyzmq==26.4.0
     # via
     #   ipykernel
@@ -271,9 +261,7 @@ requests==2.32.3
     #   huggingface-hub
     #   pydantic-ai-slim
 rich==14.0.0
-    # via
-    #   pydantic-ai-slim
-    #   pydantic-evals
+    # via pydantic-ai-slim
 rsa==4.9.1
     # via google-auth
 s3transfer==0.12.0
@@ -302,7 +290,7 @@ starlette==0.46.2
     # via
     #   mcp
     #   sse-starlette
-tokenizers==0.21.1 ; sys_platform != 'emscripten'
+tokenizers==0.21.1
     # via cohere
 tornado==6.4.2
     # via
@@ -320,7 +308,7 @@ traitlets==5.14.3
     #   jupyter-client
     #   jupyter-core
     #   matplotlib-inline
-types-requests==2.32.0.20250328 ; sys_platform != 'emscripten'
+types-requests==2.32.0.20250328
     # via cohere
 typing-extensions==4.13.2
     # via
